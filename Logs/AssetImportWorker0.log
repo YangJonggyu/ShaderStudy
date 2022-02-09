@@ -2526,3 +2526,4 @@ Received Import Request.
   path: Assets/Chapter/Rain/Raindrop.shadergraph
   artifactKey: Guid(e3e7f329601827c4c82db173012563f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Chapter/Rain/Raindrop.shadergraph using Guid(e3e7f329601827c4c82db173012563f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f9c2fa1fd4da07014608dcacab8673') in 0.007844 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
